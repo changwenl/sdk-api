@@ -5,8 +5,8 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'c3d-sdk-api',
+  description: 'my sdk api document',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
